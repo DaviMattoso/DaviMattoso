@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on projects related to secure software development, data protection, and backend systems.
 - 📫 How to reach me: davimattoso35@gmail.com
 - ⚡ Fun fact: I’m always up for learning something new about tech and cybersecurity!
-- 👾 Skills: -> Programming tools: HTML + CSS
-              -> Programming languages: C#, Java Script
-               -> Database: MySql
+- 👾 Skills: Programming tools: HTML + CSS / 
+   Programming languages: C#, Java Script / 
+               Database: MySql
