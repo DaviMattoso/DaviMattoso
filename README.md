@@ -22,11 +22,13 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviMattoso&theme=merko"/> 
   <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaviMattoso&theme=merko"/>
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviMattoso&theme=merko"/>
+  <br>
+  <br>
+  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviMattoso&theme=merko"/> 
 </div>
 
 <div align="center" style="display: inline_block"><br>
