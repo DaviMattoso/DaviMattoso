@@ -71,7 +71,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/gmail-83E509?style=for-the-badge&logo=gmail&logoColor=1D361F)](davimattoso35@gmail.com)
+  [![Gmail](https://img.shields.io/badge/gmail-83E509?style=for-the-badge&logo=gmail&logoColor=1D361F)](https://mail.google.com/mail/?view=cm&fs=1&to=davimattoso35@gmail.com)
   [![Instagram](https://img.shields.io/badge/instagram-83E509?style=for-the-badge&logo=instagram&logoColor=1D361F)](https://www.instagram.com/davi_imattoso/)
   [![Discord](https://img.shields.io/badge/Discord-83E509?style=for-the-badge&logo=Discord&logoColor=1D361F)]([https://discord.gg/846960034348793867]([https://discord.com/channels/@me](https://discord.com/users/846960034348793867)))
 </div>
