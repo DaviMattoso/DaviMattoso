@@ -80,11 +80,12 @@
 <br>
 
 <div align="center">
-  <p align="center">
-    <img align="center" src="https://i.imgur.com/Lsm5gmD.png" alt="Gengar" width="300px"/>
-  </p>
+  <img 
+    src="https://i.gifer.com/BP5L.gif"
+    alt="Gengar GIF"
+    width="300px"
+  />
 </div>
-
 
 <br>
 
