@@ -80,11 +80,9 @@
 <br>
 
 <div align="center">
-  <img 
-    src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://i.gifer.com/BP5L.gif)"
-    alt="Gengar GIF"
-    width="300px"
-  />
+  <p align="center">
+    <img align="center" src="https://i.imgur.com/Lsm5gmD.png" alt="Gengar" width="300px"/>
+  </p>
 </div>
 
 
