@@ -81,12 +81,12 @@
 
 <div align="center">
   <img 
-    src="[https://i.gifer.com/BP5L.gif](https://i.gifer.com/KbVT.gif)"
+    src="https://i.gifer.com/KbVT.gif"
     alt="Gengar GIF"
-    width="260px"
-    style="border-radius: 50%; border: 3px solid #83E509;"
+    width="260"
   />
 </div>
+
 
 <br>
 
