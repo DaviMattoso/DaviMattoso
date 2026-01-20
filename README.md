@@ -83,7 +83,8 @@
   <img 
     src="https://i.gifer.com/BP5L.gif"
     alt="Gengar GIF"
-    width="300px"
+    width="260px"
+    style="border-radius: 50%; border: 3px solid #83E509;"
   />
 </div>
 
