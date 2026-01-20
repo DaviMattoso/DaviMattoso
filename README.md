@@ -1,4 +1,10 @@
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=83E509](https://imgur.com/a/Snmfijc)](https://imgur.com/a/Jvc2VDo)](https://imgur.com/0NEMQ0r)"/>
+<p align="center">
+  <img 
+    src="https://i.imgur.com/JMJCZJI.png"
+    width="100%"
+    alt="Green pixel fire top"
+  />
+</p>
 
 
 
@@ -90,4 +96,11 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=83E509&height=100&section=footer"/>
+
+<p align="center">
+  <img 
+    src="https://i.imgur.com/0NEMQ0r.png"
+    width="100%"
+    alt="Green pixel fire bottom"
+  />
+</p>
