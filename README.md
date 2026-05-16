@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Estudante de Engenharia de Software e desenvolvedor em formação, com experiência prática em Front-end (HTML, CSS e JavaScript) e Back-end/lógica (C#, SQL e Java), atuando no desenvolvimento de sistemas web completos como e-commerces e dashboards. Focado em código limpo, organização, performance e segurança, atualmente aprofundando seus estudos em Cibersegurança para se especializar na proteção de sistemas e dados, sempre em constante evolução profissional.
+Estudante de Engenharia de Software e desenvolvedor em formação, com experiência prática em Front-end (HTML, CSS e JavaScript) e Back-end/lógica (C#, SQL e Java), atuando no desenvolvimento de sistemas web completos como e-commerces e dashboards. Focado em código limpo e organização. Atualmente aprofundando seus estudos em Cibersegurança para se especializar na proteção de sistemas e dados, sempre em constante evolução profissional.
 
 ##
 
