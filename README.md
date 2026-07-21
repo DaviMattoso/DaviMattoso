@@ -27,13 +27,17 @@ Estudante de Engenharia de Software e desenvolvedor em formação, com experiên
 ##
 
 <div align="center">
-:shinto_shrine: Estatísticas :shinto_shrine:
+  ⛩️ <strong>Estatísticas</strong> ⛩️
 </div>
 
 <br>
 
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviMattoso&theme=default">
+  <img
+    width="500"
+    src="https://ghstats.dev/api/card?username=DaviMattoso&theme=sunset&border_radius=50"
+    alt="GitHub Stats Card"
+  />
 </div>
 
 ##
