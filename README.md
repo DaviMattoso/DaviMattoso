@@ -37,7 +37,7 @@ Estudante de Engenharia de Software e desenvolvedor em formação, com experiên
 <div align="center">
   <img
     width="500"
-    src="https://ghstats.dev/api/card?username=DaviMattoso&theme=sunset&border_radius=50"
+    src="https://ghstats.dev/api/card?username=DaviMattoso&theme=nord&border_radius=50"
     alt="GitHub Stats Card"
   />
 </div>
