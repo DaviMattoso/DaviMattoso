@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`** (ou em processo de criação XD)
 
-Estudante de Engenharia de Software e desenvolvedor em formação, com experiência prática em Front-end (HTML, CSS e JavaScript) e Back-end/lógica (C#, MySQL), atuando no desenvolvimento de sistemas web completos como e-commerces e dashboards. Focado sempre em código limpo e organização (porque código bagunçado não dá rsrs). 
+Estudante de Engenharia de Software e desenvolvedor em formação, com experiência prática em Front-end (HTML, CSS e JavaScript) e Back-end/lógica (C#, MySQL), atuando no desenvolvimento de sistemas web completos como e-commerces e dashboards. Focado sempre em código limpo e organização (Esse lema eu aprendi com o prof da uni, grande Zumarán). 
 ##
 
 <br>
