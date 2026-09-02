@@ -1,8 +1,8 @@
 #  Davi Mattoso
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`** (ou em processo de criação XD)
 
-Estudante de Engenharia de Software e desenvolvedor em formação, com experiência prática em Front-end (HTML, CSS e JavaScript) e Back-end/lógica (C#, MySQL), atuando no desenvolvimento de sistemas web completos como e-commerces e dashboards. Focado em código limpo e organização. 
+Estudante de Engenharia de Software e desenvolvedor em formação, com experiência prática em Front-end (HTML, CSS e JavaScript) e Back-end/lógica (C#, MySQL), atuando no desenvolvimento de sistemas web completos como e-commerces e dashboards. Focado sempre em código limpo e organização (porque código bagunçado não dá rsrs). 
 ##
 
 <br>
@@ -14,10 +14,13 @@ Estudante de Engenharia de Software e desenvolvedor em formação, com experiên
 <br>
 
 <div align="center">
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/@mdi/svg/svg/database.svg" height="40"/>
 
 </div>
 
